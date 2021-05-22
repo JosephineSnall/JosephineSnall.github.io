@@ -1,0 +1,17 @@
+body{
+    font-family: Sans-serif, serif; 
+}
+
+header{
+    box-sizing: border-box;
+    background-color: rgba(184, 153, 255, 0.671);
+    padding: 50px,50px;
+    margin: 0px, 20px;
+}
+
+footer{
+   border-top: 2px groove rgba(184, 153, 255, 0.671);
+    margin-top: 50px;
+    box-sizing: border-box; 
+    text-align: right;
+}
