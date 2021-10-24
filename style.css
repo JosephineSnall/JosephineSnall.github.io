@@ -8,6 +8,10 @@ header{
     padding: 50px,50px;
     margin: 0px, 20px;
 }
+img{
+    margin-top: 10px;
+    float: right;
+}
 
 footer{
    border-top: 2px groove rgba(184, 153, 255, 0.671);
